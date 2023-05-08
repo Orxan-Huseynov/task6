@@ -1,0 +1,600 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  text-align: center;
+  margin-top: 33px;
+  margin-bottom: 47px;
+  color: #109e97;
+  font-family: "Lobster", cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 49px;
+  line-height: 50px;
+}
+.container {
+  width: 1838px;
+  height: 60px;
+  background-color: #109e97;
+}
+.div1 {
+  padding-left: 48px;
+  padding-top: 21px;
+}
+.div2 {
+  padding-left: 28.41px;
+  padding-top: 21px;
+}
+.div3 {
+  padding-top: 21px;
+  padding-left: 44.2px;
+}
+.div4 {
+  padding-left: 44.61px;
+  padding-top: 21px;
+}
+.div5 {
+  padding-left: 66.81px;
+  padding-top: 21px;
+}
+.navbar {
+  display: flex;
+}
+
+.div1 a {
+  text-decoration: none;
+  color: white;
+  font-family: roboto;
+}
+.div2 a {
+  text-decoration: none;
+  color: white;
+  font-family: roboto;
+}
+
+.div3 a {
+  text-decoration: none;
+  color: white;
+  font-family: roboto;
+}
+
+.div4 a {
+  text-decoration: none;
+  color: white;
+  font-family: roboto;
+}
+
+.div5 a {
+  text-decoration: none;
+  color: white;
+  font-family: roboto;
+}
+.bg {
+  width: 300px;
+  height: 391px;
+  padding-left: 447px;
+  padding-top: 117px;
+}
+.container2 {
+  background-image: url(../e57b02aed616d48073ef3ba5bd1bb7e1.jpg);
+  width: 1838px;
+  height: 628px;
+  position: relative;
+}
+.p1 {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  width: 505px;
+  height: 71px;
+  position: absolute;
+  top: 59px;
+  left: 849px;
+  bottom: 498px;
+
+  color: black;
+}
+.p2 {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  position: absolute;
+  width: 533px;
+  height: 211px;
+  left: 849px;
+  top: 138px;
+}
+.p3 {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  position: absolute;
+  width: 313px;
+  height: 24px;
+  left: 849px;
+  top: 355px;
+  bottom: 249px;
+}
+.p4 {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  position: absolute;
+  width: 505px;
+  height: 117px;
+  left: 849px;
+  top: 388px;
+  bottom: 123px;
+}
+.button {
+  position: absolute;
+  width: 148px;
+  height: 44px;
+  left: 849px;
+  top: 524px;
+  bottom: 60px;
+  background-color: #109e97; 
+}
+
+.button a{
+  text-decoration: none;
+  color: white;
+}
+
+.rec1 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1778px;
+  top: 110px;
+  background: #109e97;
+  border-radius: 100px;
+}
+.rec2 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1778px;
+  top: 160px;
+  background: #109e97;
+  border-radius: 100px;
+}
+.rec3 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1778px;
+  top: 210px;
+  background: #109e97;
+  border-radius: 100px;
+}
+.rec4 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1778px;
+  top: 260px;
+  background: #109e97;
+  border-radius: 100px;
+}
+.rec5 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1778px;
+  top: 310px;
+  background: #109e97;
+  border-radius: 100px;
+}
+.rec6 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1778px;
+  top: 376px;
+  background: #808080;
+  border-radius: 100px;
+}
+.kitab {
+  font-family: "Poppins", sans-serif;
+  position: absolute;
+  width: 161px;
+  height: 32px;
+  left: 838px;
+  top: 866px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 32px;
+}
+.container3 {
+  border: 1px solid #916a6a;
+  box-sizing: border-box;
+  position: absolute;
+  width: 960px;
+  height: 1155px;
+  left: 439px;
+  top: 950px;
+}
+.container4 {
+  box-sizing: border-box;
+  border: 1px solid #109e97;
+  position: absolute;
+  width: 252px;
+  height: 344px;
+  left: 52px;
+  top: 32px;
+}
+.container4 > img {
+  position: absolute;
+  width: 150px;
+  height: 227px;
+  left: 51px;
+  top: 31px;
+}
+.p5 {
+  position: absolute;
+  width: 78px;
+  height: 16px;
+  left: 87px;
+  top: 12px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 16px;
+}
+.container4{
+    width: 960px;
+    height: 1155px;
+    position: relative;
+    top: 132px;
+    right: 454px;
+    left: 439px;
+    bottom: 178px;
+    border: 2px;
+    border-color: #916A6A;
+    border-style: solid ;
+    display: flex;
+}
+.container5{
+    
+box-sizing: border-box;
+position: absolute;
+width: 252px;
+height: 344px;
+left: 52px;
+top: 32px;
+border: 1px solid #109E97;
+border-radius: 0px;
+}
+.container5 > img{
+position: absolute;
+width: 150px;
+height: 227px;
+left: 51px;
+top: 31px;
+}
+.container5 > span{
+    
+    width: 78px;
+    height: 16px;
+    position: absolute;
+    top: 270px;
+    left: 87px;
+}
+.container5 > .span2{
+    width: 43px;
+    height: 16px;
+    position: absolute;
+    top: 296px;
+    left: 104px;
+   
+
+}
+.span2 > a{
+    text-decoration: none;
+}
+.container6{
+    
+    box-sizing: border-box;
+    position: absolute;
+    width: 252px;
+    height: 344px;
+    left: 354px;
+    top: 32px;
+    border: 1px solid #109E97;
+    border-radius: 0px;
+    }
+.container6 > img{
+    position: absolute;
+    width: 150px;
+    height: 227px;
+    left: 51px;
+    top: 31px;
+}
+.container6 > span{
+    
+    width: 78px;
+    height: 16px;
+    position: absolute;
+    top: 270px;
+    left: 87px;
+}
+.container6 > .span2{
+    width: 43px;
+    height: 16px;
+    position: absolute;
+    top: 296px;
+    left: 104px;
+   
+
+}
+.container7{
+    
+    box-sizing: border-box;
+    position: absolute;
+    width: 252px;
+    height: 344px;
+    left: 656px;
+    top: 32px;
+    border: 1px solid #109E97;
+    border-radius: 0px;
+    }
+    .container7 > img{
+        position: absolute;
+        width: 150px;
+        height: 227px;
+        left: 51px;
+        top: 31px;
+    }
+    .container7 > span{
+    
+        width: 78px;
+        height: 16px;
+        position: absolute;
+        top: 270px;
+        left: 87px;
+    }
+    .container7 > .span2{
+        width: 43px;
+        height: 16px;
+        position: absolute;
+        top: 296px;
+        left: 104px;
+       
+    
+    }
+    .container8{
+    
+        box-sizing: border-box;
+        position: absolute;
+        width: 252px;
+        height: 344px;
+        left: 52px;
+        top: 406px;
+        border: 1px solid #109E97;
+        border-radius: 0px;
+    }
+    .container8 > img{
+        position: absolute;
+        width: 150px;
+        height: 227px;
+        left: 51px;
+        top: 31px;
+    }
+    .container8 > span{
+    
+        width: 78px;
+        height: 16px;
+        position: absolute;
+        top: 270px;
+        left: 87px;
+    }
+    .container8 > .span2{
+        width: 43px;
+        height: 16px;
+        position: absolute;
+        top: 296px;
+        left: 104px;
+       
+    
+    }
+    .container9{
+    
+        box-sizing: border-box;
+        position: absolute;
+        width: 252px;
+        height: 344px;
+        left: 354px;
+        top: 406px;
+        border: 1px solid #109E97;
+        border-radius: 0px;
+    }
+    .container9 > img{
+        position: absolute;
+        width: 150px;
+        height: 227px;
+        left: 51px;
+        top: 31px;
+    }
+    .container9 > span{
+    
+        width: 78px;
+        height: 16px;
+        position: absolute;
+        top: 270px;
+        left: 87px;
+    }
+    .container9 > .span2{
+        width: 43px;
+        height: 16px;
+        position: absolute;
+        top: 296px;
+        left: 104px;
+       
+    
+    }
+    .container10{
+    
+        box-sizing: border-box;
+        position: absolute;
+        width: 252px;
+        height: 344px;
+        left: 656px;
+        top: 406px;
+        border: 1px solid #109E97;
+        border-radius: 0px;
+    }
+    .container10 > img{
+        position: absolute;
+        width: 150px;
+        height: 227px;
+        left: 51px;
+        top: 31px;
+    }
+    .container10 > span{
+    
+        width: 78px;
+        height: 16px;
+        position: absolute;
+        top: 270px;
+        left: 87px;
+    }
+    .container10 > .span2{
+        width: 43px;
+        height: 16px;
+        position: absolute;
+        top: 296px;
+        left: 104px;
+       
+    
+    }
+    .container11{
+    
+        box-sizing: border-box;
+        position: absolute;
+        width: 252px;
+        height: 344px;
+        left: 52px;
+        top: 779px;
+        border: 1px solid #109E97;
+        border-radius: 0px;
+    }
+    .container11 > img{
+        position: absolute;
+        width: 150px;
+        height: 227px;
+        left: 51px;
+        top: 31px;
+    }
+    .container11 > span{
+    
+        width: 78px;
+        height: 16px;
+        position: absolute;
+        top: 270px;
+        left: 87px;
+    }
+    .container11 > .span2{
+        width: 43px;
+        height: 16px;
+        position: absolute;
+        top: 296px;
+        left: 104px;
+       
+    
+    }
+    .container12{
+    
+        box-sizing: border-box;
+        position: absolute;
+        width: 252px;
+        height: 344px;
+        left: 354px;
+        top: 779px;
+        border: 1px solid #109E97;
+        border-radius: 0px;
+    }
+    .container12 > img{
+        position: absolute;
+        width: 150px;
+        height: 227px;
+        left: 51px;
+        top: 31px;
+    }
+    .container12 > span{
+    
+        width: 78px;
+        height: 16px;
+        position: absolute;
+        top: 270px;
+        left: 87px;
+    }
+    .container12 > .span2{
+        width: 43px;
+        height: 16px;
+        position: absolute;
+        top: 296px;
+        left: 104px;
+       
+    
+    }
+    .container13{
+    
+        box-sizing: border-box;
+        position: absolute;
+        width: 252px;
+        height: 344px;
+        left: 656px;
+        top: 779px;
+        border: 1px solid #109E97;
+        border-radius: 0px;
+    }
+    .container13 > img{
+        position: absolute;
+        width: 150px;
+        height: 227px;
+        left: 51px;
+        top: 31px;
+    }
+    .container13 > span{
+    
+        width: 78px;
+        height: 16px;
+        position: absolute;
+        top: 270px;
+        left: 87px;
+    }
+    .container13 > .span2{
+        width: 43px;
+        height: 16px;
+        position: absolute;
+        top: 296px;
+        left: 104px;
+       
+    
+    }
+    .muel{
+        width: 1838 px;
+        height: 98px;
+        background-color: #109E97;
+        position: relative;
+        top: 198px;
+
+
+    }
+    .yazi{
+        position: absolute;
+        width: 300px;
+        height: 16px;
+        left: 814px;
+        top: 41.36px;
+        color: #FFFFFF;
+        font-family: roboto;
+      
+
+
+
+    }
+
+
